@@ -10,9 +10,8 @@ I developed models with the objective of preparing leaders and organizations for
 - Run the Organizational Responsibility Model simulation: https://tinyurl.com/3v7kbwzx
 - Organizational Responsibility Model applied in the real world at Prodemge: https://tinyurl.com/3e4xwb2p
 - System Dynamics Modeling in the Evaluation of Delays of Care in ST-Segment Elevation Myocardial Infarction Patients within a Tiered Health System: https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0103577
-- Linkedin: www.linkedin.com/in/gut-passos
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
-- 💞️ I’m looking to collaborate on artificial intelligence projects.
+- 💞️ I’m looking to collaborate on Artificial Intelligence projects.
 - 📫 How to reach me: www.linkedin.com/in/gut-passos
 
 <!---
