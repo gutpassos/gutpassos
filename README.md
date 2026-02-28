@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Guttenberg Ferreira Passos
-- 👀 My purpose is to create Artificial Intelligence models to solve complex problems and deliver better solutions.
-I created AI models with Machine Learning and Deep Learning to make different types of predictions, suggesting the best option with the smallest error: occurrence classification solutions using Natural Language Processing; strategy for serving the population in the fight against Covid-19; capacity forecasting in IT infrastructure; ICMS collection forecast; forecasting problems and incidents in the IT operation.
-I developed models with the objective of preparing leaders and organizations for the future, inserting in the Organizational Responsibility Model the analytical context with AI and ML, the more subjective context with the characteristics and skills for the Job.
+- 👀 I am driven by the challenge of architecting the next generation of intelligent systems that deliver real world impact.
+I design and build production-grade AI systems with a strong focus on Large Language Models (LLMs), Retrieval Augmented Generation (RAG), and Agentic AI architectures.
+I develop AI and ML models that integrate analytical insights into the Organizational Responsibility Model, balancing technical performance with the specific leadership skills required for modern roles.
+I also developed models with the objective of preparing leaders and organizations for the future, inserting in the Organizational Responsibility Model the analytical context with AI and ML, the more subjective context with the characteristics and skills for the Job.
 - Published works:
 - Occurrence Prediction - AI Models: https://tinyurl.com/mwkcf3uc
 - Strategy for serving the population in the fight against Covid-19 - AI Models: https://tinyurl.com/4d4n98tw
